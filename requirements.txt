@@ -5,4 +5,5 @@ accelerate
 bitsandbytes
 transformers
 sentence_transformers
-faiss_gpu
+faiss-gpu
+faiss-cpu
