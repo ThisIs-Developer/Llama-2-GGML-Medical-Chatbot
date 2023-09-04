@@ -7,5 +7,7 @@ The Llama-2-7B-Chat-GGML-Medical-Chatbot is a repository for a medical chatbot t
  - It is trained on the pdf The **GALE ENCYCLOPEDIA of MEDICINE**, which is a comprehensive medical reference that provides information on a wide range of medical topics. This means that the chatbot is able to answer questions about a variety of medical topics.
  - It is still under development, but it has the potential to be a valuable tool for patients, healthcare professionals, and researchers.
 ## ChatBot Conversession
+![Screenshot 2023-09-05 031321](https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/assets/109382325/30abcc22-780c-4588-863a-2146389a3bee)
+
 ![screencapture-localhost-8000-2023-09-05-00_31_25](https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/assets/109382325/33c21fa1-3c59-4a80-b5e9-11aa3d911f32)
 
