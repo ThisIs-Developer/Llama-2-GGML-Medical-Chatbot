@@ -69,10 +69,10 @@ async def final_result(query):
 @cl.on_chat_start
 async def start():
     chain = await qa_bot()
-    msg = cl.Message(content="Starting the bot...")
-    await msg.send()
-    msg.content = "Hi, Welcome to Medical Bot. What is your query?"
-    await msg.update()
+    # msg = cl.Message(content="Starting the bot...")
+    # await msg.send()
+    # msg.content = "Hi, Welcome to Medical Bot. What is your query?"
+    # await msg.update()
 
     cl.user_session.set("chain", chain)
 
