@@ -9,6 +9,9 @@ The Llama-2-7B-Chat-GGML-Medical-Chatbot is a repository for a medical chatbot t
 ```ternimal
 & c:/Users/baiva/OneDrive/Desktop/Llama2/myenv/Scripts/Activate.ps1
 ```
+```ternimal
+chainlit run model.py -w
+```
 ## ChatBot Conversession
 ![Screenshot 2023-09-05 031321](https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/assets/109382325/30abcc22-780c-4588-863a-2146389a3bee)
 
