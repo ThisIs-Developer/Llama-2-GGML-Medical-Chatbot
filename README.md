@@ -10,7 +10,7 @@ The **Llama-2-7B-Chat-GGML-Medical-Chatbot** is a repository for a medical chatb
    * Size - 2.87 GB
    * Max RAM required - 5.37 GB
    * Use case - New k-quant method. Uses GGML_TYPE_Q4_K for the attention.vw and feed_forward.w2 tensors, GGML_TYPE_Q2_K for the other tensors.
-   * **Model:** Know more about model [Llama-2-7B-Chat-GGML](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML)
+   * **Model:** Know more about model **[Llama-2-7B-Chat-GGML](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML)**
  - It is trained on the pdf **[The Gale Encyclopedia of Medicine, Volume 1, 2nd Edition, 637-page PDF](https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/blob/main/data/71763-gale-encyclopedia-of-medicine.-vol.-1.-2nd-ed.pdf)**, which is a comprehensive medical reference that provides information on a wide range of medical topics. This means that the chatbot is able to answer questions about a variety of medical topics.
  - This is a sophisticated medical chatbot, developed using Llama-2 7B and Sentence Transformers. Powered by Langchain and Chainlit, This bot operates on a powerful CPU computer that boasts a minimum of
     * Operating system: Linux, macOS, or Windows
