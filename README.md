@@ -11,13 +11,10 @@ The Llama-2-7B-Chat-GGML-Medical-Chatbot is a repository for a medical chatbot t
 chainlit run model.py -w
 ```
 ## ChatBot Conversession
-![Screenshot 2023-09-12 222528](https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/assets/109382325/65c8e1bf-008f-46b9-aa6e-7a0151998d18)
+![ChatBot Conversession img-1](https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/assets/109382325/9af05b2e-1a83-4a7c-aa8c-ed7c60b02e09)
 
-https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/assets/109382325/6800bf40-d449-4b31-a46b-ace9a816425c
+https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/assets/109382325/6756fb69-40c0-4d49-b392-aa6906dca786
 
-![screencapture-localhost-8000-2023-09-12-21_32_53](https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/assets/109382325/39365afd-994c-434a-b456-86a4d79c4931)
+![ChatBot Conversession img-2](https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/assets/109382325/1fede7dd-05e1-49de-bbab-f289cbdb9cd9)
 
-![screencapture-localhost-8000-2023-09-12-21_29_33](https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/assets/109382325/420aca3a-c829-48b7-9480-79d86cd1afab)
-
-
-
+![ChatBot Conversession img-3](https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/assets/109382325/d10d949f-37e5-4ec4-868d-2e62d8ad69dc)
