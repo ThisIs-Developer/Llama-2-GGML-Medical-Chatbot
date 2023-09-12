@@ -15,7 +15,7 @@ The **Llama-2-7B-Chat-GGML-Medical-Chatbot** is a repository for a medical chatb
  - This is a sophisticated medical chatbot, developed using Llama-2 7B and Sentence Transformers. Powered by Langchain and Chainlit, This bot operates on a powerful CPU computer that boasts a minimum of
     * Operating system: Linux, macOS, or Windows
     * CPU: Intel® Core™ i3
-    * RAM: 5.37 GB
+    * RAM: 8 GB
     * Disk space: 7 GB
     * GPU: None (CPU only)
  - It is still under development, but it has the potential to be a valuable tool for patients, healthcare professionals, and researchers.
