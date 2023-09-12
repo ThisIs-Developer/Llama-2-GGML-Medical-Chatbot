@@ -3,9 +3,10 @@ The Llama-2-7B-Chat-GGML-Medical-Chatbot is a repository for a medical chatbot t
 
 ## Here are some of the features of the Llama-2-7B-Chat-GGML-Medical-Chatbot:
 
- - It uses the TheBloke/Llama-2-7B-Chat-GGML model, which is a **large language model (LLM)** that has been fine-tuned on a dataset of medical text and code. This means that the model is able to understand and generate text that is relevant to the medical domain.
- - It is trained on the pdf The **GALE ENCYCLOPEDIA of MEDICINE**, which is a comprehensive medical reference that provides information on a wide range of medical topics. This means that the chatbot is able to answer questions about a variety of medical topics.
+ - It uses the _TheBloke/Llama-2-7B-Chat-GGML_ model, which is a **large language model (LLM)** that has been fine-tuned on a dataset of medical text and code. This means that the model is able to understand and generate text that is relevant to the medical domain.
+ - It is trained on the pdf **The Gale Encyclopedia of Medicine, Volume 1, 2nd Edition, 637-page PDF**, which is a comprehensive medical reference that provides information on a wide range of medical topics. This means that the chatbot is able to answer questions about a variety of medical topics.
  - It is still under development, but it has the potential to be a valuable tool for patients, healthcare professionals, and researchers.
+- **Model:** Know more about model [Llama-2-7B-Chat-GGML](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML) 📚
 
 ```ternimal
 chainlit run model.py -w
