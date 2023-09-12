@@ -7,7 +7,7 @@ The **Llama-2-7B-Chat-GGML-Medical-Chatbot** is a repository for a medical chatb
  - It is trained on the pdf **The Gale Encyclopedia of Medicine, Volume 1, 2nd Edition, 637-page PDF**, which is a comprehensive medical reference that provides information on a wide range of medical topics. This means that the chatbot is able to answer questions about a variety of medical topics.
  - It is still under development, but it has the potential to be a valuable tool for patients, healthcare professionals, and researchers.
 - **Model:** Know more about model [Llama-2-7B-Chat-GGML](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML) 📚
-## 🚀 Quickstart
+## 🚀 Quickstart 🐍 Pure Python
 1. Open Git Bash.
 2. Change the current working directory to the location where you want the cloned directory.
 3. Type `git clone`, and then paste the URL you copied earlier.
@@ -21,7 +21,7 @@ Press Enter to create your local clone.
  ```
 5. Now run it!
 ```ternimal
-chainlit run model.py -w
+   chainlit run model.py -w
 ```
 ## ChatBot Conversession
 ![ChatBot Conversession img-1](https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/assets/109382325/9af05b2e-1a83-4a7c-aa8c-ed7c60b02e09)
