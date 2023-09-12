@@ -3,7 +3,8 @@ The **Llama-2-7B-Chat-GGML-Medical-Chatbot** is a repository for a medical chatb
 
 ## 📚 Here are some of the features of the Llama-2-7B-Chat-GGML-Medical-Chatbot:
 
- - It uses the _Llama-2-7B-Chat-GGML_ model, which is a **large language model (LLM)** that has been fine-tuned 
+ - It uses the _Llama-2-7B-Chat-GGML_ model, which is a **large language model (LLM)** that has been fine-tuned
+**Model:** Know more about model [Llama-2-7B-Chat-GGML](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML)
    * Name - llama-2-7b-chat.ggmlv3.q2_K.bin
    * Quant method - q2_K
    * Bits - 2
@@ -18,7 +19,7 @@ The **Llama-2-7B-Chat-GGML-Medical-Chatbot** is a repository for a medical chatb
     * Disk space: 7 GB
     * GPU: None (CPU only)
  - It is still under development, but it has the potential to be a valuable tool for patients, healthcare professionals, and researchers.
-- **Model:** Know more about model [Llama-2-7B-Chat-GGML](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML) 📚
+
 ## 🚀 Quickstart
 1. Open Git Bash.
 2. Change the current working directory to the location where you want the cloned directory.
