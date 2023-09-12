@@ -1,4 +1,4 @@
-# 🐍 Llama-2-GGML-Medical-Chatbot
+# 🐍 Llama-2-GGML-Medical-Chatbot 🤖
 The **Llama-2-7B-Chat-GGML-Medical-Chatbot** is a repository for a medical chatbot that uses the _Llama-2-7B-Chat-GGML_ model and the pdf _The Gale Encyclopedia of Medicine_. The chatbot is still under development, but it has the potential to be a valuable tool for patients, healthcare professionals, and researchers. The chatbot can be used to answer questions about medical topics, provide summaries of medical articles, and generate medical text. However, it is important to note that the chatbot is not a substitute for medical advice from a qualified healthcare professional.
 
 ## 📚 Here are some of the features of the Llama-2-7B-Chat-GGML-Medical-Chatbot:
