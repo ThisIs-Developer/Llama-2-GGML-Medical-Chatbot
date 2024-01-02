@@ -49,3 +49,15 @@ https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/assets/10938232
 ![ChatBot Conversession img-2](https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/assets/109382325/1fede7dd-05e1-49de-bbab-f289cbdb9cd9)
 
 ![ChatBot Conversession img-3](https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/assets/109382325/d10d949f-37e5-4ec4-868d-2e62d8ad69dc)
+
+## 📌 Important Notes
+
+- While powerful, this chatbot isn't a substitute for professional medical advice.
+
+## 🤝 Contributing
+
+Contributions and suggestions are welcome! Feel free to fork the repository, make changes, and submit pull requests for improvements or bug fixes.
+
+## 📄 License
+
+This project is licensed under the [MIT License](https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/blob/main/LICENSE).
