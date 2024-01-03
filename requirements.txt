@@ -9,3 +9,5 @@ langchain==0.0.281
 sentence-transformers==2.2.2
 torch==2.0.1
 transformers==4.33.0
+
+streamlit==0.89.0 #v2.0.1.dev20231230
