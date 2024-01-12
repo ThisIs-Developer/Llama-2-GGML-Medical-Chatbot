@@ -1,7 +1,7 @@
 # Llama-2-GGML-Medical-Chatbot/Streamlit
 
 ## Overview
-This directory contains the code for a medical chatbot using Llama 2 with a Streamlit interface. The chatbot is designed to provide information and assistance related to medical queries.
+This directory contains the code for a **medical chatbot** using **Llama 2** with a **Streamlit interface**. The chatbot is designed to provide information and assistance related to medical queries.
 
 ## Usage
 1. Install the required dependencies:
