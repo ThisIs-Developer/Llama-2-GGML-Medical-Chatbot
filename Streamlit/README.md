@@ -21,8 +21,5 @@ This directory contains the code for a **medical chatbot** using **Llama 2** wit
 # Dependencies
 List of dependencies can be found in the requirements.txt file.
 
-# Contributing
-Feel free to contribute to the project by opening issues or submitting pull requests.
-
-# License
-This project is licensed under the [MIT License]().
+### ⚡Streamlit ver. on [#v2.0.1.dev20231230](https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/releases/tag/v2.0.1.dev20231230)
+![ChatBot Conversession img-4](https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/assets/109382325/75eac0c4-79b8-4dc7-8122-36042fa507eb)
