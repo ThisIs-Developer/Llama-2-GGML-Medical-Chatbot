@@ -10,4 +10,4 @@ torch==2.0.1
 transformers==4.33.0
 
 chainlit==1.0.0
-streamlit==1.29.0
+streamlit==1.30.0
