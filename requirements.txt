@@ -6,7 +6,7 @@ faiss-cpu==1.7.4
 huggingface-hub==0.16.4
 langchain==0.0.329
 sentence-transformers==2.2.2
-torch==2.0.1
+torch==2.2.1
 transformers==4.36.0
 
 chainlit==1.0.0
