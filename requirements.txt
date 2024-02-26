@@ -4,7 +4,7 @@ bitsandbytes==0.41.1
 ctransformers==0.2.26
 faiss-cpu==1.7.4
 huggingface-hub==0.16.4
-langchain==0.0.329
+langchain==0.1.0
 sentence-transformers==2.2.2
 torch==2.0.1
 transformers==4.36.0
