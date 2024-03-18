@@ -9,5 +9,5 @@ sentence-transformers==2.2.2
 torch==2.0.1
 transformers==4.36.0
 
-chainlit==1.0.0
+chainlit==1.0.401
 streamlit==1.30.0
